@@ -62,11 +62,11 @@ The Analytics Page provides visualizations and insights derived from the dataset
 This page recommends apartments to users based on their preferences and requirements, offering personalized suggestions for potential buyers or renters.
 
 ## output
-[Price_Prediction](https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git1.PNG)
+![Price_Prediction](https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git1.PNG)
 (https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git2.PNG)
-[Analytics Module](https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git3.PNG)
+!Analytics Module](https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git3.PNG)
 (https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git4.PNG)
-[Recommendation](https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git5.PNG)
+![Recommendation](https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git5.PNG)
 (https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git%207.PNG)
 
 
