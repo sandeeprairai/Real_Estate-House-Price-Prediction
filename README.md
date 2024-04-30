@@ -43,9 +43,10 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction.git
 Install the required dependencies:
-```bash
+
 
 pip install -r requirements.txt
+```bash
 
 ## Usage
 Prepare your dataset or use the provided dataset.
