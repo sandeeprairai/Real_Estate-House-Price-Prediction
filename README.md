@@ -8,8 +8,8 @@ This project aims to predict house prices using machine learning techniques. By 
 - [Dataset](#dataset)
 - [Methodology](#methodology)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Features](#additional-pages)
+- [output](#output)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -50,7 +50,8 @@ Usage
 Prepare your dataset or use the provided dataset.
 Run the Jupyter notebook or Python script to preprocess the data, train the model, and make predictions.
 Analyze the model's performance and adjust parameters as necessary.
-Additional Pages
+
+## Additional Pages
 1. Price Prediction Page
 This page allows users to input the features of a house and get a predicted price using the trained machine learning model.
 
@@ -60,8 +61,17 @@ The Analytics Page provides visualizations and insights derived from the dataset
 3. Recommendation of Apartments Page
 This page recommends apartments to users based on their preferences and requirements, offering personalized suggestions for potential buyers or renters.
 
-Contributing
+## output
+[Price_Prediction](https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git1.PNG)
+(https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git2.PNG)
+[Analytics Module](https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git3.PNG)
+(https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git4.PNG)
+[Recommendation](https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git5.PNG)
+(https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git%207.PNG)
+
+
+## Contributing
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, feel free to open an issue or create a pull request.
 
-License
-This project is licensed under the MIT License.
+## License
+This project is licensed under the *MIT License*.
