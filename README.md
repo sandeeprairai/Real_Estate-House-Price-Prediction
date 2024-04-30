@@ -63,11 +63,11 @@ This page recommends apartments to users based on their preferences and requirem
 
 ## output
 ![Price_Prediction](https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git1.PNG)
-(https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git2.PNG)
+![Price_Prediction]((https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git2.PNG)
 !Analytics Module](https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git3.PNG)
-(https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git4.PNG)
+!Analytics Module](https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git4.PNG)
 ![Recommendation](https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git5.PNG)
-(https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git%207.PNG)
+![Recommendation](https://github.com/sandeeprairai/Real_Estate-House-Price-Prediction/blob/main/output/git%207.PNG)
 
 
 ## Contributing
