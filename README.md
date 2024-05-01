@@ -52,7 +52,7 @@ Prepare your dataset or use the provided dataset.
 Run the Jupyter notebook or Python script to preprocess the data, train the model, and make predictions.
 Analyze the model's performance and adjust parameters as necessary.
 
-## Additional Pages
+## Features
 1. Price Prediction Page
 This page allows users to input the features of a house and get a predicted price using the trained machine learning model.
 
